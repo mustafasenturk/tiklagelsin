@@ -23,7 +23,7 @@ git clone https://github.com/your-username/tiklagelsin.git
 
 2. Navigate to the project directory:
 ```bash
-cd project-name
+cd tiklagelsin
 ```
 
 4. Install the project dependencies:
