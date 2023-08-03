@@ -17,7 +17,7 @@ Before you begin, make sure you have the following tools installed on your machi
 ### Installing
 
 1. Clone the repository to your local machine:
-
+```bash
 git clone https://github.com/your-username/tiklagelsin.git
 
 2. Navigate to the project directory:
