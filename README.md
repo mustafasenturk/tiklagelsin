@@ -19,17 +19,24 @@ Before you begin, make sure you have the following tools installed on your machi
 1. Clone the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/tiklagelsin.git
+```
 
 2. Navigate to the project directory:
+```bash
 cd project-name
+```
 
-3. Install the project dependencies:
+4. Install the project dependencies:
+```bash
 yarn install
+```
 
 ### Running the App
 To run the app on iOS, use the following command:
+```bash
 yarn start --reset-cache
 yarn ios
+```
 
 Contributing
 If you would like to contribute to this project, follow these steps:
