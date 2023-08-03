@@ -30,12 +30,23 @@ cd project-name
 ```bash
 yarn install
 ```
+For iOS, install the Cocoapods dependencies:
+
+```bash
+npx pod-install
+```
 
 ### Running the App
 To run the app on iOS, use the following command:
 ```bash
 yarn start --reset-cache
 yarn ios
+```
+
+To run the app on Android, use the following command:
+```bash
+yarn start --reset-cache
+yarn android
 ```
 
 Contributing
